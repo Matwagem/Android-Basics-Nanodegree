@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Dublin Guide</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="queen_title">Queen of Tarts</string>
+    <string name="queen_desc">Modern tearoom/cafe with a mezzanine floor serving freshly made brunches, lunches and sweet treats.</string>
+    <string name="chapter_title">Chapter One</string>
+    <string name="chapter_desc">Understated and elegant dining rooms for envelope pushing international menu or famous Irish coffee.</string>
+    <string name="patrick_desc">Impeccably prepared and presented French fine dining and wine list in a refined townhouse setting.</string>
+    <string name="patrick_title">Patrick Guilbauld</string>
+    <string name="pitt_title">Pitt Bros</string>
+    <string name="pitt_desc">You might not feel like smoking brisket for 12 hours, but we sure do!</string>
+    <string name="sweet_title">Sweet Republic</string>
+    <string name="sweet_desc">All Natural, Handcrafted Ice Cream.</string>
+    <string name="dart_title">DART</string>
+    <string name="dart_desc">In Dublin, the electric rail system called the DART (Dublin Area Rapid Transit) is a quick and easy way to get around Dublin.</string>
+    <string name="bus_title">Dublin Bus</string>
+    <string name="bus_desc">Dublin Bus is a bus operator providing services in Dublin. It is a subsidiary of Córas Iompair Éireann.</string>
+    <string name="luas_title">LUAS</string>
+    <string name="luas_desc">Luas is a light rail tram system operating in Dublin with two main lines serving the South and West of Dublin City.</string>
+    <string name="hailo_title">Hailo</string>
+    <string name="hailo_desc">Get a licensed car or taxi with just two taps of the free app on your iPhone or Android phone.</string>
+    <string name="uber_title">Uber</string>
+    <string name="uber_desc">Uber is the smartest way to get around. One tap and a car comes directly to you.</string>
+    <string name="guinness_title">Guinness Storehouse</string>
+    <string name="jameson_title">Jameson Distillery</string>
+    <string name="spire_title">Spire</string>
+    <string name="stephen_title">St. Stephen\'s Green</string>
+    <string name="howth_title">Howth</string>
+    <string name="guinness_desc">Brewery experience telling the tale of Ireland\'s famous beer, with tastings and a rooftop bar.</string>
+    <string name="jameson_desc">The Old Jameson Distillery is an Irish whiskey tourist attraction located just off Smithfield Square.</string>
+    <string name="spire_desc">The Spire of Dublin, alternatively titled the Monument of Light, is a large, stainless steel, pin-like monument.</string>
+    <string name="stephen_desc">St Stephen\'s Green is a city centre public park in Dublin, Ireland.</string>
+    <string name="howth_desc">Howth is a village and outer suburb of Dublin, Ireland.</string>
+    <string name="kil_title">Kilmainham Gaol</string>
+    <string name="national_title">National Archeology Museum</string>
+    <string name="writers_title">Dublin Writers Museum</string>
+    <string name="wax_title">National Wax Museum</string>
+    <string name="kil_desc">Kilmainham Gaol is a former prison in Kilmainham, Dublin, Ireland.</string>
+    <string name="national_desc">The Museum has a number of large permanent exhibits, mainly of Irish historical objects.</string>
+    <string name="writers_desc">Letters, books and artefacts covering 300 years of Dublin\'s acclaimed literary heritage.</string>
+    <string name="wax_desc">The National Wax Museum is a privately owned waxworks museum.</string>
+</resources>
