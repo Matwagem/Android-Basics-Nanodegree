@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MusicStructure</string>
+    <string name="homepage">This is the landing page for the music app. It will include a currently playing image, and your most played tracks for quick access. The MediaPlayer API may be a good starting point, the buttons to control the console would use a listener.</string>
+</resources>
